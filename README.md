@@ -1,4 +1,5 @@
-### 👋 Hi there I'm trying to be a web front-end developer now. I am studying JavaScript and React diligently.
+### 👋 Hi there I'm trying to be a web front-end developer now. 
+### I am studying JavaScript and React diligently.😄
 
 
 <!--
