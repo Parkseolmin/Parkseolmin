@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hi there I'm trying to be a web front-end developer now. I am studying JavaScript and React diligently.
+
 
 <!--
 **Parkseolmin/Parkseolmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
